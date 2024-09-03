@@ -1,3 +1,4 @@
+
 # EXNO2DS
 # AIM:
       To perform Exploratory Data Analysis on the given data set.
@@ -94,4 +95,4 @@ sns.catplot(data=df,col = "Survived",x="Gender",hue="Pclass",kind="count")
 ![image](https://github.com/user-attachments/assets/73ba5e1a-d117-4642-8915-1240814641d4)
 
 # RESULT
-        The Exploratory Data Analysis on the given data set has been performed.
+The Exploratory Data Analysis on the given data set has been performed.
